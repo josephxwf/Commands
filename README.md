@@ -5,8 +5,8 @@
 1. Show hidden files on Mac OS X Mojave [duplicate]
 
 
-From Finder... <br>
+    From Finder... <br>
 
-Cmd⌘  Shift⇧  .  (full stop, period)  <br>
+    Cmd⌘  Shift⇧  .  (full stop, period)  <br>
 
-Same again to hide.
+    Same again to hide.
